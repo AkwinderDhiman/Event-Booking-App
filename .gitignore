@@ -18,3 +18,5 @@ Thumbs.db
 # Optional: ignore PostgreSQL dump files or DB backups
 *.sql
 *.dump
+README.md
+dist/
